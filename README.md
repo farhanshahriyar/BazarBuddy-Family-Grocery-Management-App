@@ -88,9 +88,12 @@ bazarbuddy-family-grocery-management-app/
 
 
 ## 🧠 Flowchart
-📌 Coming Soon: Visual flowchart of the grocery list cycle, data sync, and AI suggestion system.
+📌 Coming Soon: 
+```bash
+Visual flowchart of the grocery list cycle, data sync, and AI suggestion system.
+```
 
-🚀 Installation
+## 🚀 Installation
 ```bash
 git clone https://github.com/farhanshahriyar/BazarBuddy-Family-Grocery-Management-App.git
 cd BazarBuddy-Family-Grocery-Management-App
