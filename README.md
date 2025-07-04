@@ -68,9 +68,11 @@ bazarbuddy-family-grocery-management-app/
 ├── styles/
 │   └── globals.css
 
-</details>
-```
 
+```
+</details>
+
+---
 ## ⚙️ Features
 
 | Module               | Description                                                                 |
