@@ -1,8 +1,8 @@
 # 🛒 BazarBuddy – Family Grocery Management App
 
-**BazarBuddy** is a smart, cross-platform web app that redefines how families manage groceries. It combines collaborative shopping lists, expense monitoring, and AI-powered suggestions with a clean, responsive design.
+**BazarBuddy** is a smart, modern web application designed to revolutionize the way families manage groceries. It offers powerful features like collaborative shopping lists, real-time expense tracking, and AI-powered item suggestions — all wrapped in a clean, responsive interface.
 
-Built using **Next.js**, **TypeScript**, **Tailwind CSS**, and **Radix UI**, the app ensures modern performance, elegant UI, and scalable architecture for future enhancements.
+The landing page is built using **Next.js**, **TypeScript**, **Tailwind CSS**, and **Radix UI**, ensuring performance, scalability, and an elegant user experience. Dashboard technologies like **React**, **TypeScript**, **TailwindCSS**, and powered by **Vite** for lightning-fast development workflows. For backend and state management, Context API, custom React hooks, and Supabase are used to deliver real-time data handling, authentication, and cloud storage.
 
 ---
 
